@@ -1,7 +1,7 @@
 # ASP Core Skills Test
 
 ## Instructions:
-1. Create a simple application that utilizes APIs below on a fully responsive and cross browser compatible web page using an ASP.NET Core
+1. Create a simple application that utilizes APIs below on a fully responsive and cross browser compatible web page using an ASP.NET Core App
 
 API: https://jsonplaceholder.typicode.com/users
 
