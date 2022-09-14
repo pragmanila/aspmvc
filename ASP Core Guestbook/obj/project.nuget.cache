@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "oT5raJdTFoOsUy/yohQGpUsCfHOvpG2uw14yKLsrNIISLqLCGdKyAzGEJwGbzxvWJLtqupQI5CKqamENNlaSRA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Clio6\\source\\repos\\ASP Core Guestbook\\ASP Core Guestbook\\ASP Core Guestbook.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.VisualStudio.Azure.Containers.Tools.Targets. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
